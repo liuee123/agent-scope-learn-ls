@@ -34,6 +34,12 @@ workspace/
 MEMORY.md
 .cache/
 
+# ===== Node.js / VitePress =====
+node_modules/
+dist/
+.vitepress/cache/
+.vitepress/dist/
+
 # ===== Environment =====
 .env
 .env.local

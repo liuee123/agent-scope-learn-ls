@@ -1,0 +1,15 @@
+{
+  "name": "agentscope-course",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "《AgentScope-Java 深度实战》图文专栏",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
