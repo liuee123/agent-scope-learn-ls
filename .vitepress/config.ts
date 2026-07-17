@@ -85,13 +85,13 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '课程大纲', link: '/../course-outline' },
-      { text: '配套代码', link: 'https://github.com/liumeng11/agentscope-class' },
+      { text: '配套代码', link: 'https://github.com/liuee123/agent-scope-learn-ls-code' },
     ],
 
     sidebar,
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/liumeng11/agentscope-class' },
+      { icon: 'github', link: 'https://github.com/liuee123/agent-scope-learn-ls' },
     ],
 
     search: {
@@ -113,7 +113,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/liumeng11/agentscope-class/edit/main/articles/:path',
+      pattern: 'https://github.com/liuee123/agent-scope-learn-ls/edit/main/articles/:path',
       text: '在 GitHub 上编辑此页',
     },
   },

@@ -1,33 +1,13 @@
-# ===== Java / Maven =====
-target/
-!.mvn/wrapper/maven-wrapper.jar
-*.class
-*.jar
-*.war
-
 # ===== IDE =====
 .idea/
 *.iml
-*.iws
-*.ipr
 .vscode/
-.settings/
-.project
-.classpath
-.factorypath
-bin/
 
 # ===== OS =====
 .DS_Store
 Thumbs.db
 Desktop.ini
 *~
-
-# ===== Spring Boot =====
-*.log
-logs/
-application-local.yml
-application-local.properties
 
 # ===== AgentScope / AI =====
 workspace/
@@ -36,7 +16,6 @@ MEMORY.md
 
 # ===== AgentScope 源码（学员自行 clone）=====
 agent-java-source/
-code/section-*/target/
 
 # ===== Node.js / VitePress =====
 node_modules/
