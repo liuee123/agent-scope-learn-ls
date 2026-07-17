@@ -34,6 +34,10 @@ workspace/
 MEMORY.md
 .cache/
 
+# ===== AgentScope 源码（学员自行 clone）=====
+agent-java-source/
+code/section-*/target/
+
 # ===== Node.js / VitePress =====
 node_modules/
 dist/
